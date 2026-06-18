@@ -66,6 +66,7 @@ Tarea2_BigData/
 - La ventana de la figura se abre al final de la ejecucion con `plt.show()`.
 - No hace falta descargar el CSV aparte; debe estar en la raiz del repositorio junto a `main.py`.
 - Si ejecutas desde PowerShell y la activacion del entorno virtual falla por politica de ejecucion, puedes usar:
+- Link del dataset: https://www.kaggle.com/datasets/hgultekin/bbcnewsarchive
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
