@@ -1,12 +1,12 @@
 # Tarea 2 Big Data
 
-Script de analisis de noticias BBC usando:
+Script de análisis de noticias BBC usando:
 
 - TF manual para una consulta de ejemplo
 - TF-IDF con similitud de coseno
 - Matriz de similitud entre documentos
-- Reduccion dimensional con `TruncatedSVD`
-- Visualizacion con `matplotlib`
+- Reducción dimensional con `TruncatedSVD`
+- Visualización con `matplotlib`
 
 ## Requisitos
 
