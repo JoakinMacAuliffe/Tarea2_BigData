@@ -29,6 +29,13 @@ py -3 -m venv .venv
 .venv\Scripts\activate.bat
 ```
 
+En Linux o macOS:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
 ## Instalar dependencias
 
 Con el entorno virtual activado:
